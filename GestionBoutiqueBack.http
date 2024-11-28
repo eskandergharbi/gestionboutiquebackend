@@ -1,0 +1,6 @@
+@GestionBoutiqueBack_HostAddress = http://localhost:5096
+
+GET {{GestionBoutiqueBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
